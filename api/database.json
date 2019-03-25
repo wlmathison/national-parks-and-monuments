@@ -1,28 +1,24 @@
 {
   "parks": [
     {
-      "id": 1,
       "name": "Jackson Hole",
       "state": "WY",
-      "latitude": 43.582767,
-      "longitude": -110.821999,
-      "visited": false
+      "latitude": "45",
+      "longitude": "45",
+      "visited": false,
+      "id": 1
     },
     {
-      "id": 2,
       "name": "Mojave National Preserve",
       "state": "CA",
-      "latitude": 35.141689,
-      "longitude": -115.510399,
-      "visited": true
+      "id": 2
     },
     {
-      "id": 3,
       "name": "Joshua Tree National Park",
       "state": "CA",
-      "latitude": 33.881866,
-      "longitude": -115.90065,
-      "visited": true
+      "latitude": "33.881866",
+      "longitude": "-115.90065",
+      "id": 3
     },
     {
       "id": 4,
@@ -46,7 +42,7 @@
       "state": "TX",
       "latitude": 32.590797,
       "longitude": -95.273666,
-      "visited": false
+      "visited": true
     },
     {
       "id": 7,
@@ -107,12 +103,12 @@
       "visited": true
     },
     {
-      "id": 4,
       "name": "Gold Butte",
       "state": "NV",
-      "area": 296937,
+      "area": "296937",
       "dateEstablished": "12-28-2016",
-      "visited": true
+      "visited": false,
+      "id": 4
     },
     {
       "id": 5,
